@@ -35,6 +35,7 @@ def swap_elements(array)
       0
     elsif
       array[1], array[2] = array[2], array[1]
+    end
   end
 end
 
