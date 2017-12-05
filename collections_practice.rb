@@ -30,6 +30,10 @@ end
 
 
 def swap_elements(array)
+  array.each do |a|
+    if a = array[0]
+      0
+    elsif
   array[1], array[2] = array[2], array[1]
 end
 
